@@ -1,4 +1,4 @@
-# RustChain Wallet Setup Guide
+## RustChain Wallet Setup Guide
 
 A complete guide to creating, using, and managing your RustChain wallet.
 
